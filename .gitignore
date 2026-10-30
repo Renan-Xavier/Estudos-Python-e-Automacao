@@ -1,0 +1,9 @@
+**/.venv/
+**/venv/
+**/__pycache__/
+**/.ipynb_checkpoints/
+**/chrome_data/
+**/estudo_python/
+**/*.lnk
+*.log
+.DS_Store
